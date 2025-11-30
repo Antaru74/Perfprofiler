@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Perf Profiler</string>
+    <string name="tile_name">Perf Profiler</string>
+</resources>
